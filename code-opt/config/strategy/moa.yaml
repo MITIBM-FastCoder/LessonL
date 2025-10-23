@@ -1,0 +1,5 @@
+_target_: strategies.moa.run
+
+Rounds: 4
+temperature: 0.2
+aggregator_temperature: 0.7

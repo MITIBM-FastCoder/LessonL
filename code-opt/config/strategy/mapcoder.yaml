@@ -1,0 +1,5 @@
+_target_: strategies.mapcoder.run
+
+temperature: 0.2
+k: 3
+t: 5

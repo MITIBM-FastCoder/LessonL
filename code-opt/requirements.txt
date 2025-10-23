@@ -1,0 +1,32 @@
+# Core ML and LLM packages
+transformers
+vllm
+datasets
+
+# Configuration management
+hydra-core
+omegaconf
+
+# API clients
+openai
+
+# Scientific computing
+numpy
+scipy
+pandas
+
+# Utilities
+tqdm
+requests
+pyyaml
+jsonlines
+
+# Computer vision
+opencv-python-headless
+pillow
+
+# Additional utilities
+psutil
+tiktoken
+safetensors
+prettytable

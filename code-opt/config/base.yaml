@@ -1,0 +1,16 @@
+# Default parameters
+#strategy: lesson
+benchmark: ParEval
+mode: serial
+localhost: queue-g6e12xlarge-dy-g6e12xlarge-1
+
+
+# Default logging configuration
+logging:
+  version: 1
+  loggers:
+    main_logger:
+      level: INFO
+    class_logger:
+      level: INFO
+

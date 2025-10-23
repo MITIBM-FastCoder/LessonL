@@ -1,0 +1,10 @@
+jsonlines
+openai
+datasets
+tenacity
+astunparse
+vllm
+xformers
+transformers
+accelerate
+evalplus

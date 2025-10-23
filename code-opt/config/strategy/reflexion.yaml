@@ -1,0 +1,5 @@
+_target_: strategies.reflexion.run
+
+max_iter: 10
+pass_at_k: 1
+temperature: 0.2

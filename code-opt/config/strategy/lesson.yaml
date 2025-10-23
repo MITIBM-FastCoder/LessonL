@@ -1,0 +1,6 @@
+_target_: strategies.lesson.run
+
+Rounds: 4
+k: 4
+temperature: 0.2
+reason_temperature: 0.2

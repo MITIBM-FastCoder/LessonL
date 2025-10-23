@@ -1,0 +1,5 @@
+_target_: strategies.openai.run
+
+temperature: 0.2
+model: gpt-4o # Only gpt-4o, gpt-4o-mini and o3 are supported in OpenAI strategy
+trial: 0

@@ -1,0 +1,3 @@
+_target_: strategies.simple.run
+
+temperature: 0.2
